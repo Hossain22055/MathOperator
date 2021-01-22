@@ -1,0 +1,13 @@
+C:\Users\hossa\repos\MathOperator\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.exe
+C:\Users\hossa\repos\MathOperator\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.deps.json
+C:\Users\hossa\repos\MathOperator\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.runtimeconfig.json
+C:\Users\hossa\repos\MathOperator\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.runtimeconfig.dev.json
+C:\Users\hossa\repos\MathOperator\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.dll
+C:\Users\hossa\repos\MathOperator\MathOperator\bin\Debug\netcoreapp3.1\MathOperator.pdb
+C:\Users\hossa\repos\MathOperator\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.csprojAssemblyReference.cache
+C:\Users\hossa\repos\MathOperator\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.AssemblyInfoInputs.cache
+C:\Users\hossa\repos\MathOperator\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.AssemblyInfo.cs
+C:\Users\hossa\repos\MathOperator\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.csproj.CoreCompileInputs.cache
+C:\Users\hossa\repos\MathOperator\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.dll
+C:\Users\hossa\repos\MathOperator\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.pdb
+C:\Users\hossa\repos\MathOperator\MathOperator\obj\Debug\netcoreapp3.1\MathOperator.genruntimeconfig.cache
